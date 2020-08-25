@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-
+<!--  주석추가 -->
 
 <title><spring:message code="common.docTitle"/></title>
 <link rel="stylesheet" type="text/css" href="css/wizen_common.css"/>
